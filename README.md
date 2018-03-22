@@ -21,7 +21,7 @@ I got result values by practice - one-by-one I changed proportional, integration
 
 # Why I think this values are the best
 Because when other values give very big deviations. Integrator is 0, because even making it 0.01 it gave very strange movements - the more it became, the more zigzag movemenets I got.
-Proportional element reduce accuracy, it gives good results in diaposone 5-7, whereas diffrentiatoris good in the area of 20
+Proportional element reduce accuracy if it less or more than diaposone 5-7, whereas diffrentiator is good in the area of 20
 # Link to youtube video with robot movements
 
 https://www.youtube.com/watch?v=yeYtpwVxGRY
